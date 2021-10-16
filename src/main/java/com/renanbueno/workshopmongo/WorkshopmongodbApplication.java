@@ -9,5 +9,4 @@ public class WorkshopmongodbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WorkshopmongodbApplication.class, args);
 	}
-
 }
